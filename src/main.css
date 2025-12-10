@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@tailwind utilities;
+
+
+/* bg-[radial-gradient(ellipse_at_center,_#000_5%,_transparent_50%),linear-gradient(to_right,_#003366,_#009966_20%,_#ffcc33_50%,_#660000_80%,_darkred)] */
